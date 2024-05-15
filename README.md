@@ -1,12 +1,6 @@
 # Criando Um Sistema Bancário Simples com Python.
 
-Foi passado uma atividade de criação de um programa de sistema bancário simples, com somente as funcões mais primitivas de um banco, no curso Python AI Backend Developer, desenvolvido pela VIVO: Coding The Future, na platafoma Dio
-
-
-
-
-
-https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer.
+Foi passado uma atividade de criação de um programa de sistema bancário simples, com somente as funcões mais primitivas de um banco, no curso [Python AI Backend Developer](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer), desenvolvido pela VIVO: Coding The Future, na platafoma [Dio](https://web.dio.me/).
 
 
 
@@ -20,6 +14,34 @@ O objetivo desse projeto é criar um sistema bancário simples com as seguintes 
   ### Depósito, Saque e Extrato.
 
 
+
+
+
+Decidi fazer esse programa com uma interface interativa para esse sistema simples.
+
+
+
+
+
+Spoiler do resultado final:
+
+
+
+<div align="center">
+<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/2bd6c1e4-66c3-45d2-a1a4-60d3369c258d" width="800px" />
+</div>
+
+
+
+
+Abaixo está tudo sobre como eu fiz cada parte do código. Confira!
+
+
+
+
+-----------------------
+### Parte 1:
+-----------------------
 
 
 
@@ -39,25 +61,24 @@ Então, começando o desenvolvimento, apenas fui escrevendo no código o roteiro
       
       # EXTRATO: Os valores devem ser exibidos utilizando o formato R$0000.00. (R$1.545,34 => R$1545.34)
 
+
+
 -----------------------
-### Parte 1:
+### Parte 2:
 -----------------------
 
 
 
-Decidi fazer esse programa com uma interface interativa para esse sistema simples.
+
+
+
+Acredito que o básico de uma interface interativa são botões. Eles dão ao usuário o poder de escolha, fazendo assim um programa tangível, e intuitivo.
 
 
 
 
 
-Acredito que o básico de uma interface são botões, que dão ao usuário o poder de escolha, fazendo assim um programa tangível.
-
-
-
-
-
-Para isso, usei a biblioteca multiuso Tkinter e importei as funções "messagebox" (exibe mensagens ou alertas ao usuário) e "simpledialog" (exibe caixas de diálogo para entrada de dados [por exemplo digitar um valor ou senha]) para fazer toda a interface e caixas de entrada e avisos.
+Para isso, usei a biblioteca multiuso Tkinter e importei as funções "messagebox" (exibe mensagens ou alertas ao usuário) e "simpledialog" (exibe caixas de diálogo para entrada de dados [por exemplo digitar um valor ou senha]) para fazer toda a interface e caixas de entrada e avisos, tendo em mente uma interface interativa para esse sistema simples..
 
 
 
@@ -90,6 +111,11 @@ O código ficou assim:
 Agora que já defini a janela, está na hora de definir o que vai ser apresentado na iterface.
 
 Decidi que no cabeçalho da interface será um texto de boas vindas ao usuário, no caso o cliente do banco. No rodapé, mostrará o saldo em R$ do cliente. E no meio da tela, apresentará 4 botões: Depósito, Saque, Extrato e Sair. Cada um com suas respectivas funções.
+
+
+
+
+Então fiz um esboço de como eu queria que ficasse a interface do programa.
 
 
 
@@ -156,7 +182,7 @@ Agora defino as variáveis do sistema e o saldo do usuário na interface:
 
 
 -----------------------
-### Parte 2:
+### Parte 3:
 -----------------------
 
 Criei as seguintes funções:
@@ -208,13 +234,6 @@ def extrato -> Verifica se há histórico de transações. Mostra o saldo atual 
 
 ---------------------------
 
-Então básicamente, é isso.
-
-
-
-
-Você pode conferir o resultado desse projeto no arquivo "sistema_bancario_projeto.py".
-
 
 
 
@@ -234,6 +253,16 @@ Resultado final:
 
 O resultado ficou simples, mas funcionando corretamente.
 
+
+
+
+
+Então básicamente, é isso.
+
+
+
+
+Você pode conferir o resultado desse projeto no arquivo "sistema_bancario_projeto.py".
 
 
 
