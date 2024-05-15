@@ -1,6 +1,12 @@
-# Criando Um Sistema Bancário Simples com Python
+# Criando Um Sistema Bancário Simples com Python.
 
-Foi passado uma atividade de criação de um programa de sistema bancário simples, com somente as funcões mais primitivas de um banco, no curso Python AI Backend Developer, desenvolvido pela VIVO: Coding The Future, na platafoma Dio (Link: https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer).
+Foi passado uma atividade de criação de um programa de sistema bancário simples, com somente as funcões mais primitivas de um banco, no curso Python AI Backend Developer, desenvolvido pela VIVO: Coding The Future, na platafoma Dio
+
+
+
+
+
+https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer.
 
 
 
