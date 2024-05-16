@@ -23,12 +23,17 @@ Decidi fazer esse programa com uma interface interativa para esse sistema simple
 
 
 
-Spoiler do resultado final:
+
+Pequena demonstração de como ficou o programa:
 
 
 
 <div align="center">
 <img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/2bd6c1e4-66c3-45d2-a1a4-60d3369c258d" width="800px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/9d13e100-2c25-4af7-9e85-abc593e7423a)" width="800px" />
 </div>
 
 
@@ -254,7 +259,7 @@ Resultado final:
 O resultado ficou simples, mas funcionando corretamente.
 
 
-
+[file](https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/9d13e100-2c25-4af7-9e85-abc593e7423a))
 
 
 Então básicamente, é isso.
