@@ -29,14 +29,8 @@ Pequena demonstração de como ficou o programa:
 
 
 <div align="center">
-<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/2bd6c1e4-66c3-45d2-a1a4-60d3369c258d" width="800px" />
+<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5a9fef75-7ac9-4ed2-aa55-a63fb1570b37"></video>
 </div>
-
-<div align="center">
-<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/9d13e100-2c25-4af7-9e85-abc593e7423a)" width="800px" />
-</div>
-
-
 
 
 Abaixo está tudo sobre como eu fiz cada parte do código. Confira!
@@ -259,7 +253,9 @@ Resultado final:
 O resultado ficou simples, mas funcionando corretamente.
 
 
-[file](https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/9d13e100-2c25-4af7-9e85-abc593e7423a))
+<div align="center">
+<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5a9fef75-7ac9-4ed2-aa55-a63fb1570b37"></video>
+</div>
 
 
 Então básicamente, é isso.
