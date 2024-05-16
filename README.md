@@ -29,8 +29,10 @@ Pequena demonstração de como ficou o programa:
 
 
 <div align="center">
-<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5a9fef75-7ac9-4ed2-aa55-a63fb1570b37"></video>
+<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5d8e96e3-51de-4e5f-af2d-c1c4429f7f29"></video>
 </div>
+
+
 
 
 Abaixo está tudo sobre como eu fiz cada parte do código. Confira!
@@ -237,7 +239,7 @@ def extrato -> Verifica se há histórico de transações. Mostra o saldo atual 
 
 
 
-Resultado final:
+Resultado final da interface:
 
 
 
@@ -253,9 +255,11 @@ Resultado final:
 O resultado ficou simples, mas funcionando corretamente.
 
 
+
 <div align="center">
-<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5a9fef75-7ac9-4ed2-aa55-a63fb1570b37"></video>
+<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5d8e96e3-51de-4e5f-af2d-c1c4429f7f29"></video>
 </div>
+
 
 
 Então básicamente, é isso.
