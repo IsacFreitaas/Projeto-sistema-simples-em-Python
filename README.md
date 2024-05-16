@@ -29,7 +29,9 @@ Pequena demonstração de como ficou o programa:
 
 
 <div align="center">
-<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5d8e96e3-51de-4e5f-af2d-c1c4429f7f29"></video>
+<video src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/5d8e96e3-51de-4e5f-af2d-c1c4429f7f29" poster="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/2bd6c1e4-66c3-45d2-a1a4-60d3369c258d" controls>
+Preview 
+</video>
 </div>
 
 
@@ -135,7 +137,7 @@ Esse foi meu esboço da interface que fiz no Paint:
 
 
 <div align="center">
-<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/8a5dc1fd-e951-4915-9e92-7aee80d669f0" width="600px" />
+<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/8a5dc1fd-e951-4915-9e92-7aee80d669f0" width="900px" />
 </div>
 
 
@@ -245,7 +247,7 @@ Resultado final da interface:
 
 
 <div align="center">
-<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/2bd6c1e4-66c3-45d2-a1a4-60d3369c258d" width="800px" />
+<img src="https://github.com/IsacFreitaas/projeto-sistema-simples-em-python/assets/65254733/2bd6c1e4-66c3-45d2-a1a4-60d3369c258d" width="900px" />
 </div>
 
 
