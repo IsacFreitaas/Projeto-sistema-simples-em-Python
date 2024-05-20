@@ -10,7 +10,7 @@
     # 4- O sistema permite realizar 3 saques diários (R$1500,00 máx.), com limite de R$500,00 por saque.
     # 5- Caso o usuário não tenha saldo em conta, o sistema deve exibir uma mensagem informando que não será possível realizar o saque por falta de saldo.
 
-# EXTRATO: Os valores devem ser exibidos utilizando o formato R$0000.00. (R$1.545,34 => R$1545.34)
+# EXTRATO: Os valores devem ser exibidos utilizando o formato R$0000.00 (Exemplo: R$1.545,34 => R$1545.34).
 
 import tkinter as tk
 from tkinter import messagebox, simpledialog
