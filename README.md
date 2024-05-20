@@ -6,7 +6,14 @@ Foi passado uma atividade de criação de um programa de sistema bancário simpl
 
 
 
-O objetivo desse projeto é criar um sistema bancário simples com as seguintes operações:
+O objetivo desse projeto é criar um sistema bancário simples, explicando da forma mais simples, para iniciantes aprenderem.
+
+
+
+
+
+Nosso sistema bancário contará com as seguintes operações:
+
 
 
 
