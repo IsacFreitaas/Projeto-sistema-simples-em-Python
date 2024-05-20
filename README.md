@@ -81,7 +81,7 @@ Acredito que o básico de uma interface interativa são botões. Eles dão ao us
 
 
 
-Para isso, usei a biblioteca multiuso Tkinter e importei as funções "messagebox" (exibe mensagens ou alertas ao usuário) e "simpledialog" (exibe caixas de diálogo para entrada de dados [por exemplo digitar um valor ou senha]) para fazer toda a interface e caixas de entrada e avisos, tendo em mente uma interface interativa para esse sistema simples..
+Para isso, usei a biblioteca multiuso Tkinter e importei as funções "messagebox" (exibe mensagens ou alertas ao usuário) e "simpledialog" (exibe caixas de diálogo para entrada de dados, como por exemplo, para digitar um valor ou senha) para fazer toda a interface e caixas de entrada e avisos, tendo em mente uma interface interativa para esse sistema simples.
 
 
 
